@@ -1,0 +1,15 @@
+{
+  "name": "aulo01-mocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "engines": {
+    "node": "18"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
