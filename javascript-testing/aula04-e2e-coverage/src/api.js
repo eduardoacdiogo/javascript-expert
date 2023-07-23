@@ -27,7 +27,7 @@ const routes = {
       response.end('Logging failed!')
       return
     }
-    return response.end('ok')
+    return response.end('Log in succeeded')
   },
   default( request, response ) {
     response.writeHeader(404)
@@ -43,3 +43,5 @@ function handler(request, response) {
 }
 
 const app = http.createServer(handler).listen(3000, () => console.log('running at 3000'))
+
+module.exports = app
