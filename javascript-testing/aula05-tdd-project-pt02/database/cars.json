@@ -1,1 +1,23 @@
-[{"id":"226ff461-8ddd-435e-8be0-763990321aee","name":"A4","releaseYear":2023,"available":true,"gasAvailable":true},{"id":"6f62d78d-909b-4316-b559-6f2815b96ff6","name":"F-150","releaseYear":2023,"available":true,"gasAvailable":true},{"id":"329a90f9-f2ea-4f4d-9615-63a7fcd6690b","name":"Colorado","releaseYear":2023,"available":true,"gasAvailable":true}]
+[
+  {
+    "id": "226ff461-8ddd-435e-8be0-763990321aee",
+    "name": "A4",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "6f62d78d-909b-4316-b559-6f2815b96ff6",
+    "name": "F-150",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "329a90f9-f2ea-4f4d-9615-63a7fcd6690b",
+    "name": "Colorado",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  }
+]
